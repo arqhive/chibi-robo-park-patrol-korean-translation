@@ -1,0 +1,12 @@
+*.nds
+*.srl
+*.zip
+*.png
+*.bmp
+*.bps
+work/
+build/
+rom/
+__pycache__/
+*.pyc
+.venv/
