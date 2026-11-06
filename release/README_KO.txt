@@ -28,8 +28,8 @@ https://github.com/arqhive/chibi-robo-park-patrol-korean-translation
 
 패치 적용 결과 (v1.0f)
   크기  67,108,864 바이트
-  CRC32 2CB9A7B2
-  MD5   3979f1089f9c03fe345365eb6988bcf9
+  CRC32 114D8C97
+  MD5   a9c1571f4b8eb6a76d6a416295f0d6fd
 
 원본 확인값이 다르면 패치가 맞지 않습니다. 직접 덤프한 일본판 롬을 쓰세요.
 

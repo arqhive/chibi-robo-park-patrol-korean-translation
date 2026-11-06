@@ -4281,21 +4281,21 @@
   "file": "MsgResFull.bmg",
   "index": 279,
   "translation_parts": [
-   "뭇표, 기뽀~!"
+   "엄청 기뽀~!"
   ]
  },
  {
   "file": "MsgResFull.bmg",
   "index": 280,
   "translation_parts": [
-   "뭇표, 예쁘네~"
+   "엄청 예쁘네~"
   ]
  },
  {
   "file": "MsgResFull.bmg",
   "index": 281,
   "translation_parts": [
-   "뭇표, 많이 있네~"
+   "엄청 많이 있네~"
   ]
  },
  {
@@ -4447,7 +4447,7 @@
   "file": "MsgResFull.bmg",
   "index": 293,
   "translation_parts": [
-   "뭇표, 고마워~!"
+   "엄청 고마워~!"
   ]
  },
  {
@@ -4650,7 +4650,7 @@
   "file": "MsgResFull.bmg",
   "index": 306,
   "translation_parts": [
-   "있잖아.\n",
+   "저기, 저기.\n",
    {
     "type": 255,
     "data": "000003"
@@ -4927,7 +4927,7 @@
     "type": 128,
     "data": "010003"
    },
-   "뭇푯포코,\n축하해~!",
+   "엄청무척\n축하해~!",
    {
     "type": 128,
     "data": "010002"

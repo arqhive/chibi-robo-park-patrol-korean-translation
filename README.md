@@ -34,9 +34,9 @@
 | 항목 | 원본 일본판 | 패치 적용 결과 (v1.0f) |
 |---|---|---|
 | 크기 | 67,108,864 바이트 | 67,108,864 바이트 |
-| CRC32 | `B77D7EA5` | `2CB9A7B2` |
-| MD5 | `855bfa33d378bd5b42a2299f8f952bb6` | `3979f1089f9c03fe345365eb6988bcf9` |
-| SHA-1 | `b67dfdea892bb8f149ebe051d3be242a41f0ac54` | `34495e47a7b12ca3c264fd8da08356d2178e257e` |
+| CRC32 | `B77D7EA5` | `114D8C97` |
+| MD5 | `855bfa33d378bd5b42a2299f8f952bb6` | `a9c1571f4b8eb6a76d6a416295f0d6fd` |
+| SHA-1 | `b67dfdea892bb8f149ebe051d3be242a41f0ac54` | `609147555c1eb1234123f9e3f0681b27aea3bbd3` |
 
 원본 파일명 예: `Sakasete! Chibi-Robo! (Japan).nds`
 
